@@ -1,0 +1,21 @@
+.row-header{
+    color:white;
+    margin:4px 4px 4px 4px;
+}
+.row-body{
+    margin:50px 0px;
+}
+.jumbotron{
+    background: blueviolet;
+}
+.footer{
+    background: orchid;
+}
+body{
+    /*this will give space for the navigation bar */
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background: rgb(51, 2, 66);
+}
